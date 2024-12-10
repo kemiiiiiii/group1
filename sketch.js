@@ -3,7 +3,7 @@ function setup() {
 }
 
 function draw() {
-  background(10);
+  background(100);
   // add blue circle 50 px big
   //byebye
 }
